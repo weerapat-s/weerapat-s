@@ -24,7 +24,7 @@
 - 🎓 Studying **Computer Technology** at the Faculty of Industrial Education and Technology, **KMITL**
 - 💻 Passionate about web development, software engineering, and exploring new technologies
 - 🌱 Constantly learning and expanding my skill set to become a better developer
-- 📬 Reach me at: **wasuratsomdet@gmail.com**
+- 📬 Reach me at: **Vaumgasem@gmail.com**
 
 <br/>
 
