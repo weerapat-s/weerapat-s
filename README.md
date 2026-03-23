@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Visitor Badge -->
-![Visitor Badge](https://komarev.com/ghpvc/?username=wasuratsomdet9009&style=flat-square&color=lightgrey&label=PROFILE+VIEWS)
+<img width="80" height="120" alt="image" src="https://github.com/user-attachments/assets/23f244e8-2f3c-436c-be38-decb273513ce" />
+
+
 
 <br/>
 
@@ -75,5 +77,10 @@
 ---
 
 <div align="center">
+
+
+
+  ![Uploading image.png…]()
+
 <sub>⟡ crafted with care · KMITL Computer Technology</sub>
 </div>
